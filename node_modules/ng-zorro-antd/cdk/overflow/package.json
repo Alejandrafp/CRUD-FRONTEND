@@ -1,0 +1,10 @@
+{
+  "module": "../../fesm2015/ng-zorro-antd-cdk-overflow.mjs",
+  "es2020": "../../fesm2020/ng-zorro-antd-cdk-overflow.mjs",
+  "esm2020": "../../esm2020/cdk/overflow/ng-zorro-antd-cdk-overflow.mjs",
+  "fesm2020": "../../fesm2020/ng-zorro-antd-cdk-overflow.mjs",
+  "fesm2015": "../../fesm2015/ng-zorro-antd-cdk-overflow.mjs",
+  "typings": "ng-zorro-antd-cdk-overflow.d.ts",
+  "sideEffects": false,
+  "name": "ng-zorro-antd/cdk/overflow"
+}

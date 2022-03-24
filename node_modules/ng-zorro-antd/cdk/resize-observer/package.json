@@ -1,0 +1,10 @@
+{
+  "module": "../../fesm2015/ng-zorro-antd-cdk-resize-observer.mjs",
+  "es2020": "../../fesm2020/ng-zorro-antd-cdk-resize-observer.mjs",
+  "esm2020": "../../esm2020/cdk/resize-observer/ng-zorro-antd-cdk-resize-observer.mjs",
+  "fesm2020": "../../fesm2020/ng-zorro-antd-cdk-resize-observer.mjs",
+  "fesm2015": "../../fesm2015/ng-zorro-antd-cdk-resize-observer.mjs",
+  "typings": "ng-zorro-antd-cdk-resize-observer.d.ts",
+  "sideEffects": false,
+  "name": "ng-zorro-antd/cdk/resize-observer"
+}
